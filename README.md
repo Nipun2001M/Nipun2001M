@@ -20,7 +20,6 @@
 
 ## 🧑‍💻 About Me
 
-<img width="30%" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
 * 🎓 Final-year Undergraduate in **B.Sc. (Hons) Information Technology**
 * 🏫 University of Moratuwa
