@@ -2,9 +2,11 @@
 
 ---
 
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 ## 👋 Hi there
 
-**Final-year Undergraduate in Information Technology** with strong interest in **Backend Engineering, Web Development, and Scalable Systems**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
+**Final-year Undergraduate in Information Technology** at the **Faculty of Information Technology, University of Moratuwa**, with strong interest in **Backend Engineering, Web Development, and Scalable Systems**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun2001m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
