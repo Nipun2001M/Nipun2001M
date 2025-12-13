@@ -6,7 +6,7 @@
 
 ## 👋 Hi there
 
-**Final-year Undergraduate in Information Technology** at the **Faculty of Information Technology, University of Moratuwa**, with strong interest in **Backend Engineering, Web Development, and Scalable Systems**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
+**Final-year Undergraduate in Information Technology** at the **Faculty of Information Technology, University of Moratuwa**, with strong interest in **Backend Engineering, Fullstack Development, and Scalable Systems**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun2001m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
@@ -25,7 +25,7 @@
 
 * 🎓 Final-year Undergraduate in **B.Sc. (Hons) Information Technology**
 * 🏫 University of Moratuwa
-* 💡 Interested in **Backend Development, Distributed Systems & Cloud**
+* 💡 Interested in **Fullstack Development, Backend Development, Cloud, and AI**
 * 🌱 Currently learning **Go, system design, and performance optimization**
 * ❤️ Passionate about writing clean, maintainable code
 
@@ -53,7 +53,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" />
 
-<!-- Web / Backend -->
+<!-- Web / Fullstack Development -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" />
