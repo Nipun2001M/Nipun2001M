@@ -8,7 +8,6 @@
 
 **Final-year Undergraduate in Information Technology** at the **Faculty of Information Technology, University of Moratuwa**, with strong interest in **Backend Engineering, Fullstack Development, and Scalable Systems**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun2001m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 ---
 
