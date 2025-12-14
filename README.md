@@ -6,7 +6,7 @@
 
 ## 👋 Hi there
 
-**Final-year Undergraduate in Information Technology** at the **Faculty of Information Technology, University of Moratuwa**, with strong interest in ** Fullstack Development, and Backend Engineering**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
+**Final-year Undergraduate in Information Technology** at the **Faculty of Information Technology, University of Moratuwa**, with strong interest in **Fullstack Development, and Backend Engineering**. I enjoy building real-world applications, learning new technologies, and working in collaborative engineering environments.
 
 
 ---
